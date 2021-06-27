@@ -1,5 +1,15 @@
 # Comps
 
+This app will show how to use a couple of different components
+## How to use
+first run:
+```npm install```
+or
+```yarn```
+
+then run:
+```npm start```
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.5.
 
 ## Development server
